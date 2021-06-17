@@ -110,7 +110,6 @@ for iter=1:iteration  %각 확률의 평균치를 구하기 위함
 
 end
 
-int i;
 figure
 hold on; grid on;
 x=100:100:1000;

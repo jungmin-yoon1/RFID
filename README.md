@@ -1,5 +1,4 @@
 ## RFID
-Radio-Frequency Identification 구현 
 
 ### FSA 프로토콜 및 DFSA 프로토콜의 시뮬레이션
 
